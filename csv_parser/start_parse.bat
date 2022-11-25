@@ -1,0 +1,1 @@
+start cmd k/ ruby main.rb
